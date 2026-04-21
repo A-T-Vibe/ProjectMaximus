@@ -10,7 +10,13 @@
       "Bash(gh repo *)",
       "Skill(update-config)",
       "Bash(python *)",
-      "Bash(git push *)"
+      "Bash(git push *)",
+      "Bash(pip --version)",
+      "Bash(py --version)",
+      "Bash(py -m pip --version)",
+      "Bash(where ffmpeg *)",
+      "Bash(cmd.exe /c \"py --version && where py && where ffmpeg\")",
+      "PowerShell(py *)"
     ]
   }
 }

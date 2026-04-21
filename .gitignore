@@ -3,6 +3,20 @@
 *.key
 *.pem
 secrets/
+client_secret.json
+youtube_token.pkl
+
+# Generated data (large files, not needed in git)
+data/videos/
+data/audio/
+projectmaximus.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
 
 # OS files
 .DS_Store
